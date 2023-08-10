@@ -2,7 +2,7 @@
 <h3 align="center">A detail-oriented frontend developer with a passion for creating visually appealing, responsive designs who has good knowledge of HTML, CSS, and JavaScript with some frameworks and committed to optimizing user experiences."</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush260603" alt="ayush260603" /></a> </p>
+
 
 - 🌱 I’m currently learning **React.JS and looking to learn Next.JS**
 
