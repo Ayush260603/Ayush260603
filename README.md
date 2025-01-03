@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React.JS and looking to learn Next.JS**
+- 🌱 I’m currently diving deep into the realm of data alongside finetuning my web skills**
 
 - 📫 How to reach me **ayush260603@gmail.com**
 
