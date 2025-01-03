@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ayush260603/Ayush260603/blob/main/profile%20banner.png)
 <h1 align="center">Hi 👋, I'm Ayush </h1>
-<h3 align="center">A detail-oriented frontend developer with a passion for creating visually appealing, responsive designs who has good knowledge of HTML, CSS, and JavaScript with some frameworks and committed to optimizing user experiences."</h3>
+<h3 align="center"> An enthusiastic and passionate techie who loves to learn more day by day using data. I like creating models as well as visually appealing web apps "</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
 
 
